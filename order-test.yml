@@ -12,5 +12,5 @@ spring:
 env:
   test3333
 girl:
-  name: lili
+  name: mimi
   age: 18
