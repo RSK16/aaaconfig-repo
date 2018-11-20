@@ -2,6 +2,9 @@
 spring:
   application:
     name: order
+  redis:
+    host: 192.168.99.100
+    port: 6379
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     username: root
