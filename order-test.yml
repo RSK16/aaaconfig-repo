@@ -11,6 +11,6 @@ spring:
     show-sql: true
 env:
   test3333
-gril:
+girl:
   name: lili
   age: 18
