@@ -12,5 +12,5 @@ spring:
 env:
   test3333
 girl:
-  name: nana
+  name: nanana
   age: 18
