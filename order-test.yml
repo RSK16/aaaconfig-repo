@@ -22,3 +22,10 @@ env:
 girl:
   name: nanana
   age: 18
+feign:
+  client:
+    config:
+      default:
+        connectTimeout: 5000
+        readTimeout: 5000
+        loggerLevel: basic
